@@ -41,7 +41,10 @@ A full-stack ordering app built for a local restaurant. Customers can browse the
 
 ## Coding Activity
 
-[![WakaTime Stats](https://wakatime.com/share/@oarrechavala/76af149a-7235-4b2b-9dd3-98c4a335ce6f.svg)](https://wakatime.com/@oarrechavala)
+📊 **This Week**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
