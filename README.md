@@ -41,7 +41,7 @@ A full-stack ordering app built for a local restaurant. Customers can browse the
 
 ## Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark&hide_border=true&layout=compact&langs_count=4)](https://wakatime.com/@onasito)
+[![WakaTime Stats](https://wakatime.com/share/@oarrechavala/76af149a-7235-4b2b-9dd3-98c4a335ce6f.svg)](https://wakatime.com/@oarrechavala)
 
 ---
 
