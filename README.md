@@ -1,6 +1,7 @@
 # Hey, I'm Onasis 👋
 
-Full-stack developer with a focus on machine learning — I build web applications and data-driven tools that solve real problems. Currently open to full-stack and ML engineering roles.
+Full-stack developer with a passion for machine learning, building scalable web applications and data-driven solutions to solve real-world problems. Open to full-stack software engineering and ML engineering roles.
+
 
 ---
 
