@@ -20,12 +20,12 @@ Full-stack developer with a passion for machine learning, building scalable web 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Python       4 hrs 34 mins         ██████████████████████▒░░   89.88 %
-Markdown     16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-CSS          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Git Config   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Python       48 mins               ████████████████▓░░░░░░░░   66.67 %
+Markdown     11 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+CSS          6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Git Config   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
