@@ -6,8 +6,8 @@ Full-stack developer with a focus on machine learning — I build web applicatio
 
 ## What I'm Up To
 
-- 🔭 Currently improving the machine learning model in my Premier League Predictor
-- 🌱 Learning more about ML algorithms and model accuracy
+- 🔭 Currently building a Credit Risk Analysis Dashboard — an ML-powered app predicting loan default risk
+- 🌱 Deepening my knowledge of feature engineering, missing-data strategies, and gradient-boosted trees (XGBoost)
 - 👀 Open to full-stack and machine learning roles
 
 ---
