@@ -1,6 +1,7 @@
 # Hey, I'm Onasis 👋
 
-Full-stack developer with a focus on machine learning — I build web applications and data-driven tools that solve real problems. Currently open to full-stack and ML engineering roles.
+Full-stack developer with a passion for machine learning, building scalable web applications and data-driven solutions to solve real-world problems. Open to full-stack software engineering and ML engineering roles.
+
 
 ---
 
@@ -19,9 +20,11 @@ Full-stack developer with a focus on machine learning — I build web applicatio
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 16 July 2026 - To: 23 July 2026
 
-No activity tracked
+Python     1 hr 50 mins          █████████████████████▒░░░   85.40 %
+Markdown   16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+CSV        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
