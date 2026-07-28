@@ -7,7 +7,7 @@ Full-stack developer with a passion for machine learning, building scalable web 
 
 ## What I'm Up To
 
-- 🔭 Currently building a Credit Risk Analysis Dashboard — an ML-powered app predicting loan default risk
+- 🔭 Currently building a Credit Risk Analysis Dashboard, an ML-powered app predicting loan default risk
 - 🌱 Deepening my knowledge of feature engineering, missing-data strategies, and gradient-boosted trees (XGBoost)
 - 👀 Open to full-stack and machine learning roles
 
