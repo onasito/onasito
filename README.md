@@ -20,12 +20,12 @@ Full-stack developer with a passion for machine learning, building scalable web 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-TypeScript   4 hrs 44 mins         █████████████████░░░░░░░░   68.02 %
-Git Config   58 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-JavaScript   24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Python       22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JavaScript   3 hrs 44 mins         ████████████░░░░░░░░░░░░░   48.40 %
+TypeScript   1 hr 45 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Git Config   58 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+JSON         18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
