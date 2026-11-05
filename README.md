@@ -2,14 +2,14 @@
 
 Full-stack developer with a passion for machine learning, building scalable web applications and data-driven solutions to solve real-world problems. Open to full-stack software engineering and ML engineering roles.
 
-
 ---
 
 ## What I'm Up To
 
-- 🔭 Currently building a Credit Risk Analysis Dashboard, an ML-powered app predicting loan default risk
-- 🌱 Deepening my knowledge of feature engineering, missing-data strategies, and gradient-boosted trees (XGBoost)
-- 👀 Open to full-stack and machine learning roles
+- 🔭 Currently building the **Kabob Express** website, a full-stack restaurant site I'm taking from local dev to production
+- ☁️ Deploying it on **AWS** to get hands-on with cloud infrastructure: hosting, networking, CI/CD, and keeping costs in check
+- 🌱 Deepening my knowledge of cloud architecture, feature engineering, and gradient-boosted trees (XGBoost)
+- 👀 Open to full-stack, cloud, and machine learning roles
 
 ---
 
